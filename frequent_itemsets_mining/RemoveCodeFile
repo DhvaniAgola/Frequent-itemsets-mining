@@ -1,0 +1,12 @@
+//			bucketCount.entrySet().stream().sorted(Collections.reverseOrder(Map.Entry.comparingByKey()))
+//					.forEachOrdered(entry -> sortedMap.put(entry.getKey(), entry.getValue()));
+9 2
+1,1,2,5
+2,2,4
+3,2,3
+4,1,2,4
+5,1,3
+6,2,3
+7,1,3
+8,1,2,3,5
+9,1,2,3
